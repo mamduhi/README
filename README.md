@@ -8,7 +8,7 @@ Having a background in academia helps me to understand the data and apply both a
 
 🔭 I’m currently collaborating with academia on data science related projects in Autonomous Systems.
 
-I attended intensive courses onPython Programming & Data Science at Constructor Academy, where I learned hands-on . I work with the following technologies (which we also pass on to our students):
+I attended intensive courses on Python Programming & Data Science at [Constructor Academy](https://academy.constructor.org), where I learned hands-on . I work with the following technologies:
 
 Python, Web Scraping, APIs
 Visualization (incl. Interactive) with Python, Plotly, Matplotlib, Streamlit
@@ -23,6 +23,4 @@ Explainable AI - SHAP, GradCam, Lime, etc
 
 💬 Ask me about how to start a career in Data Science.
 
-📫 You can reach me on LinkedIn.
-
-⚡ Fun fact: .
+📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/vahid-m-8ab90562/).
